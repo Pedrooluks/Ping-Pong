@@ -1,2 +1,2 @@
 # Ping-Pong
-Um jogo simples, porem traz um conhecimento muito grande! 
+Um jogo simples, porém traz um conhecimento muito grande! 
